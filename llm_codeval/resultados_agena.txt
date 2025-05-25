@@ -1,0 +1,335 @@
+1
+Very Low: 0.072345
+Low: 0.22557
+Medium: 0.34539
+High: 0.26029
+Very High: 0.096399
+
+2
+Very Low: 0.15885
+Low: 0.32364
+Medium: 0.32265
+High: 0.1574
+Very High: 0.037458
+
+3
+Very Low: 0.1098
+Low: 0.27738
+Medium: 0.34311
+High: 0.20803
+Very High: 0.061679
+
+4
+Very Low: 0.083288
+Low: 0.2431
+Medium: 0.34722
+High: 0.2431
+Very High: 0.083288
+
+5
+Very Low: 0.010587
+Low: 0.057583
+Medium: 0.18493
+High: 0.3514
+Very High: 0.3955
+
+6
+Very Low: 0.087375
+Low: 0.21201
+Medium: 0.30554
+High: 0.26179
+Very High: 0.13329
+
+7
+Very Low: 0.030742
+Low: 0.14112
+Medium: 0.31343
+High: 0.33787
+Very High: 0.17683
+
+8
+Very Low: 0.1401
+Low: 0.3102
+Medium: 0.3329
+High: 0.17322
+Very High: 0.043586
+
+9
+Very Low: 0.1305
+Low: 0.23033
+Medium: 0.27835
+High: 0.23033
+Very High: 0.1305
+
+10
+Very Low: 0.13151
+Low: 0.30266
+Medium: 0.33699
+High: 0.1816
+Very High: 0.047249
+
+11
+Very Low: 0.29719
+Low: 0.34674
+Medium: 0.23773
+High: 0.095731
+Very High: 0.022611
+
+12
+Very Low: 0.17654
+Low: 0.33824
+Medium: 0.31378
+High: 0.1409
+Very High: 0.030533
+
+13
+Very Low: 0.52911
+Low: 0.34327
+Medium: 0.10929
+High: 0.017037
+Very High: 0.0012945
+
+14
+Very Low: 0.20724
+Low: 0.2828
+Medium: 0.26481
+High: 0.17015
+Very High: 0.074994
+
+15
+Very Low: 0.046567
+Low: 0.17804
+Medium: 0.33289
+High: 0.30527
+Very High: 0.13723
+
+16
+Very Low: 0.30711
+Low: 0.34735
+Medium: 0.23231
+High: 0.091815
+Very High: 0.02141
+
+17
+Very Low: 0.36356
+Low: 0.35171
+Medium: 0.20202
+High: 0.06883
+Very High: 0.01388
+
+18
+Very Low: 0.13878
+Low: 0.23701
+Medium: 0.27768
+High: 0.22329
+Very High: 0.12325
+
+19
+Very Low: 0.1199
+Low: 0.28981
+Medium: 0.34083
+High: 0.19517
+Very High: 0.054291
+
+20
+Very Low: 0.41221
+Low: 0.32732
+Medium: 0.17774
+High: 0.06599
+Very High: 0.016747
+
+21
+Very Low: 0.2404
+Low: 0.29881
+Medium: 0.25412
+High: 0.14784
+Very High: 0.058828
+
+22
+Very Low: 0.10337
+Low: 0.20423
+Medium: 0.27598
+High: 0.25511
+Very High: 0.16131
+
+23
+Very Low: 0.2362
+Low: 0.36751
+Medium: 0.27716
+High: 0.10126
+Very High: 0.017867
+
+24
+Very Low: 0.38889
+Low: 0.35294
+Medium: 0.18831
+High: 0.059014
+Very High: 0.010845
+
+25
+Very Low: 0.023864
+Low: 0.098504
+Medium: 0.2398
+High: 0.34482
+Very High: 0.29301
+
+26
+Very Low: 0.074994
+Low: 0.17015
+Medium: 0.26481
+High: 0.2828
+Very High: 0.20724
+
+27
+Very Low: 0.12409
+Low: 0.2242
+Medium: 0.27788
+High: 0.2362
+Very High: 0.13763
+
+28
+Very Low: 0.099359
+Low: 0.2647
+Medium: 0.34546
+High: 0.22117
+Very High: 0.069312
+
+29
+Very Low: 0.12378
+Low: 0.22387
+Medium: 0.27781
+High: 0.2365
+Very High: 0.13805
+
+30
+Very Low: 0.039514
+Low: 0.11489
+Medium: 0.22977
+High: 0.31624
+Very High: 0.29959
+
+31
+Very Low: 0.49027
+Low: 0.35884
+Medium: 0.12732
+High: 0.021789
+Very High: 0.0017865
+
+32
+Very Low: 0.042253
+Low: 0.12066
+Medium: 0.23555
+High: 0.31445
+Very High: 0.28709
+
+33
+Very Low: 0.48978
+Low: 0.35897
+Medium: 0.12757
+High: 0.021876
+Very High: 0.0017978
+
+34
+Very Low: 0.28327
+Low: 0.37993
+Medium: 0.24718
+High: 0.077825
+Very High: 0.011802
+
+35
+Very Low: 0.036738
+Low: 0.15682
+Medium: 0.3239
+High: 0.32465
+Very High: 0.1579
+
+36
+Very Low: 0.039986
+Low: 0.11651
+Medium: 0.23212
+High: 0.31637
+Very High: 0.29501
+
+37
+Very Low: 0.36126
+Low: 0.38232
+Medium: 0.19916
+High: 0.050914
+Very High: 0.0063484
+
+38
+Very Low: 0.25998
+Low: 0.33632
+Medium: 0.25696
+High: 0.11591
+Very High: 0.03083
+
+39
+Very Low: 0.5216
+Low: 0.34648
+Medium: 0.11266
+High: 0.01788
+Very High: 0.001378
+
+40
+Very Low: 0.0096602
+Low: 0.067494
+Medium: 0.22953
+High: 0.38186
+Very High: 0.31145
+
+41
+Very Low: 0.066398
+Low: 0.15837
+Medium: 0.25923
+High: 0.29129
+Very High: 0.2247
+
+42
+Very Low: 0.16098
+Low: 0.28449
+Medium: 0.2988
+High: 0.18656
+Very High: 0.069168
+
+43
+Very Low: 0.1207
+Low: 0.22145
+Medium: 0.27812
+High: 0.23908
+Very High: 0.14065
+
+44
+Very Low: 0.085206
+Low: 0.18333
+Medium: 0.27014
+High: 0.27271
+Very High: 0.18862
+
+45
+Very Low: 0.17431
+Low: 0.26354
+Medium: 0.27322
+High: 0.19424
+Very High: 0.094678
+
+46
+Very Low: 0.041081
+Low: 0.13797
+Medium: 0.27404
+High: 0.32233
+Very High: 0.22458
+
+47
+Very Low: 0.24335
+Low: 0.2999
+Medium: 0.25295
+High: 0.14606
+Very High: 0.057741
+
+48
+Very Low: 0.044589
+Low: 0.17382
+Medium: 0.33112
+High: 0.30911
+Very High: 0.14136
