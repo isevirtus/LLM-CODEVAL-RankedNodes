@@ -55,9 +55,7 @@ Each function was validated via logical prompts using **OpenAI o1** and **DeepSe
 ```bash
 pip install numpy pandas scikit-learn matplotlib scipy
 2. Run the Brier Score Evaluation
-bash
-Copiar
-Editar
+
 cd llm_codeval
 python generate_tnormal_brier.py
 This script:
