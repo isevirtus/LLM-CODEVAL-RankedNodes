@@ -9,7 +9,7 @@ This repository contains the source code, validation scenarios, and result files
 ## 📂 Folder Structure
 
 All content is organized under the folder `llm_codeval/`:
-
+```
 llm_codeval/
 ├── bn_ranked_nodes.py # Bayesian Network implementation with 5 validated functions
 ├── stratified_scenarios.csv # 48 input scenarios (2 and 3 parents) used in validation
@@ -19,7 +19,7 @@ llm_codeval/
 ├── comparison_results.csv # Side-by-side comparison with Brier Scores
 ├── prompts_llm_validation.pdf # Prompts used for LLM validation (DeepSeek R1 & OpenAI O1)
 ├── llm_codeval_article.pdf # Full paper describing the framework and results
-
+```
 ---
 
 ## ✅ Purpose
@@ -45,7 +45,7 @@ Implemented in `bn_ranked_nodes.py`:
 | `mixminmax`  | Convex combination of min/max |
 | `mixture`    | Ranked-node combination followed by TNormal transformation |
 
-Each function was validated via logical prompts using **OpenAI GPT-4-turbo** and **DeepSeek R1**.
+Each function was validated via logical prompts using **OpenAI o1** and **DeepSeek R1**.
 
 ---
 
