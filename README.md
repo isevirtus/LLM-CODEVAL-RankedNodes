@@ -19,6 +19,7 @@ llm_codeval/
 ├── comparison_results.csv # Side-by-side comparison with Brier Scores
 ├── prompts_llm_validation.pdf # Prompts used for LLM validation (DeepSeek R1 & OpenAI O1)
 ├── llm_codeval_article.pdf # Full paper describing the framework and results
+├── supplementary_llm_review_examples_wmean.pdf # Examples of corrections applied during human-in-the-loop validation.
 ```
 ---
 
