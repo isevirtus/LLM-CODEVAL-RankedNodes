@@ -107,6 +107,13 @@ def wmean(*args):
     for i in range(0, len(args), 2):
         w = args[i]
         x = args[i + 1]
+
+        if not isinstance(w, (int, float)) or not isinstance(x, (int, float)):
+            raise ValueError("All arguments must be numeric.")
+
+        if w < 0:
+            raise ValueError("Weights must be non-negative.")
+
         partial_sum_value += w * x
         partial_sum_weight += w
 
@@ -114,6 +121,7 @@ def wmean(*args):
         return None
 
     return partial_sum_value / partial_sum_weight
+
 
 
 #wmin:
